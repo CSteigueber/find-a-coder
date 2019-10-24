@@ -1,2 +1,2 @@
 # find-a-coder
-Just checking if I can contribute to Jennis repository
+Dead end; I am working on a branch of the original repository
